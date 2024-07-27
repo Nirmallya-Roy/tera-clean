@@ -16,3 +16,7 @@
 .dot{
     color: rgb(20 184 166);
 }
+.main6{
+    background-image: url('chobis/bg.png');
+    background-size: cover;
+}
