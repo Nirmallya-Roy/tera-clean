@@ -7,3 +7,10 @@
     background-image: url(photos/images\ \(1\).jpeg);
     
 }
+.hola{
+    border-radius: 70px 70px 0px 70px;
+    background-image: url(photos/family.jpeg);   
+}
+.cocacola{
+    border-radius: 50px 50px 0 30px;
+}
